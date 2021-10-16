@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.com/Alheimsins/dager-fra-dato.svg?branch=main)](https://travis-ci.com/Alheimsins/dager-fra-dato)
-[![Coverage Status](https://coveralls.io/repos/Alheimsins/dager-fra-dato/badge.svg?branch=main&service=github)](https://coveralls.io/github/Alheimsins/dager-fra-dato?branch=main)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 # dager-fra-dato
